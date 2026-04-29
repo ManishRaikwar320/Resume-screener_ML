@@ -1,4 +1,4 @@
-# 📄 Resume / Candidate Screening System (FUTURE_ML_03)
+# 📄 Resume / Candidate Screening System
 
 ## 🚀 Project Overview
 
